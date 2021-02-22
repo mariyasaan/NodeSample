@@ -3,4 +3,4 @@
 //Test PR 1233
 
 Testing if branch and commit appers in Jira
-AAAAAA-1
+AAAAAA-1-123
