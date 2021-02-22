@@ -2,4 +2,4 @@
 
 //Test PR 1233
 
-Testing if commit appers in Jira
+Testing if branch and commit appers in Jira
